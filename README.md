@@ -1,2 +1,1 @@
-# CAD
-My CAD Files I've made
+Hello, Thanks for reading this. For the CAD files there will be both OBJ and STL.
